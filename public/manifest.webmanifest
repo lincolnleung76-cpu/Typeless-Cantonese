@@ -1,0 +1,22 @@
+{
+  "name": "Voice Polish",
+  "short_name": "VoicePolish",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "AI voice typing app for English and Cantonese with stronger transcription, stronger rewriting, and saved messages.",
+  "lang": "zh-HK",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
